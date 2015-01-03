@@ -1,0 +1,7 @@
+Community engagement
+CS1.0: “The CIO is authorized and directed to regularly consult with experts, thought leaders and key stakeholders for the purpose of exploring options for the implementation and continuous improvement of this and other related policies. The department that has ownership and responsibility for each dataset shall endeavor to identify the relevant stakeholder communities that will use and rely upon the publication of each open data set of their department, including identification of a simple, effective and repeatable means for notifying stakeholder communities of the availability of relevant published open data or the additions to or other updating of such open data.”
+MJWEO: CIO should “regularly consult with experts, thought leaders and key stakeholders for the purpose of exploring options for the implementation of policies and practices arising under or related to this Executive Order.”
+DG0.4: “The CIO shall regularly consult with public and private sector experts, thought leaders and key stakeholders on issues, options and ideas for simplifying and streamlining interactions within, with and by the City of Boston.  In addition to seeking a wide range of viewpoints from a variety of fields, the CIO shall specifically seek input and advice about data governance, records management, long term archiving, large-scale participatory systems, real-time analytics, user experience, data science and technical security.”
+
+Open Items: 
+How formally should public engagement be defined in the policy? Should a formal process be put in place?
